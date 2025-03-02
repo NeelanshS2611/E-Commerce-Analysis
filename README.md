@@ -34,7 +34,3 @@ The analysis is divided into several parts:
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
